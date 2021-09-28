@@ -1,0 +1,19 @@
+body {
+	font-family: Trebuchet MS, Helvetica;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.h {
+	text-align: center;
+}
+
+.top1 {
+	text-align-last: center;
+}
+
+.d {
+	margin-top: 800px;
+}
